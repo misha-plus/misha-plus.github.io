@@ -1,0 +1,65 @@
+/*
+ * Start Bootstrap - Full Width Pics (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+.image-bg-fluid-height,
+.image-bg-fixed-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.image-bg-fluid-height {
+    background: url(../images/rv-5-wide-full-compressed.jpg) no-repeat center center scroll;
+    padding: 100px 0;
+}
+
+.text-area {
+    background: #FFFFFF;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+section {
+    padding: 75px 0;
+}
+
+.section-heading {
+    margin: 30px 0;
+    font-size: 4em;
+}
+
+.section-lead {
+    margin: 30px 0;
+}
+
+.section-paragraph {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section-last-paragraph {
+    margin-bottom: 30px;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+}
